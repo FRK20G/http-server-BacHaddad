@@ -1,0 +1,32 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+
+    max-width: 1000px;
+    min-height: 20rem;
+    background-color: darkslategrey;
+    color: #fff;
+    border-radius: 2rem;
+
+
+}
+
+h1,
+h2,
+h3 {
+    margin: 2rem;
+}
+
+a {
+text-decoration: overline rgb(151, 248, 71);
+font-size: 1.8rem;
+margin: 2rem;
+color: #fff
+}
